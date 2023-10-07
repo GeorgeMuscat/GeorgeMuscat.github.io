@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Me
+permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hello, I'm George!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm currently a Course Admin, Tutor and Undergraduate Computer Science Student @ UNSW. 🌱
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+What gets me thinking the most is security and computer networks. I wasn't always interested in networks, however as I have delved deeper in my studies, my appreciation for the power of networks has grown tremendously. 🌐
 
+On the weekend I play volleyball, volleyball and more volleyball. 🏐
 
-[jekyll-organization]: https://github.com/jekyll
+Also CTFs are pretty cool. 🚩
