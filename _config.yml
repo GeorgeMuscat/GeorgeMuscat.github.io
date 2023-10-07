@@ -28,7 +28,7 @@ github_username: GeorgeMuscat
 markdown: kramdown
 theme: minima
 plugins:
-    - jekyll-feed
+  - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -41,4 +41,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 minima:
-    skin: dark
+  skin: dark
+  social_links:
+    github: rrevi
+    linkedin: rafaelrev
