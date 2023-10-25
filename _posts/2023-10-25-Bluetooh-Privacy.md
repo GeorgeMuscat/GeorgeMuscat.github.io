@@ -27,6 +27,6 @@ Companies such as Beaconstac, encourage their customers (the companies marketing
 
 This information is then used for more advanced marketing, such as realtime location based marketing and "retargeting marketing" where the advertisers show you items from shops you spent more time in.
 
-All of this data collection is indirectly acknowledged in most companies' Privacy Policy (for example Westfield: https://www.westfield.com/privacy-policy) however they do not mention how it is used, and to who exactly they are sharing this information with.
+All of this data collection is indirectly acknowledged in most companies' Privacy Policy (for example [Westfield](https://www.westfield.com/privacy-policy)) however they do not mention how it is used, and to who exactly they are sharing this information with.
 
-For further reading, I recommend checking out this company who facilitates this: https://www.beaconstac.com/what-is-a-bluetooth-beacon
+For further reading, I recommend checking out this company who facilitates this: [https://www.beaconstac.com/what-is-a-bluetooth-beacon](https://www.beaconstac.com/what-is-a-bluetooth-beacon)
