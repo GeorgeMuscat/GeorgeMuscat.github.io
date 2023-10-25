@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Unveiling the Secrets of Bluetooth: How You're Exposed by BLE Beacons'
+title: "Unveiling the Secrets of Bluetooth: How You're Exposed by BLE Beacons"
 date: 2023-10-25 09:32:40 +1100
-categories: Security
+categories: security
 ---
 
 This should be a good one!
