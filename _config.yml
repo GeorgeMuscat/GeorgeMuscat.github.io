@@ -14,9 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ./muscat.sh
-author:
-    name: George Muscat
-    email: george@muscat.sh
+author: George Muscat
+email: george@muscat.sh
 description: >- # this means to ignore newlines until "baseurl:"
     Course Admin, Tutor and Computer Science Student @ UNSW.
     Everything security.
