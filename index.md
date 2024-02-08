@@ -12,4 +12,6 @@ I love a good CTF. 🚩
 
 What gets me thinking the most is security and computer networks. With how connected all devices are, having a strong understanding of network security is extremely important to me. 🌐
 
+One of my favourite optimisations for my various workflows is making use of CI/CD pipelines and automation. ⚙️
+
 On the weekend I love to play sports such as Volleyball, Baseball, Football and Tennis. 🏐
