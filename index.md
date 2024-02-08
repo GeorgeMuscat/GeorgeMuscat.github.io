@@ -8,8 +8,8 @@ permalink: /
 
 I'm currently a Course Admin, Tutor and Undergraduate Computer Science Student @ UNSW. 🌱
 
-What gets me thinking the most is security and computer networks. I wasn't always interested in networks, however as I have delved deeper in my studies, my appreciation for the power of networks has grown tremendously. 🌐
+I love a good CTF. 🚩
 
-On the weekend I play volleyball, volleyball and more volleyball. 🏐
+What gets me thinking the most is security and computer networks. With how connected all devices are, having a strong understanding of network security is extremely important to me. 🌐
 
-Also CTFs are pretty cool. 🚩
+On the weekend I love to play sports such as Volleyball, Baseball, Football and Tennis. 🏐
