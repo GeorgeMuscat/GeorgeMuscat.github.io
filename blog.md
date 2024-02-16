@@ -1,5 +1,5 @@
 ---
 layout: list
-title: 'blog'
+title: 'brain.log'
 permalink: /blog
 ---
