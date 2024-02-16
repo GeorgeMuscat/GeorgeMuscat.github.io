@@ -45,3 +45,8 @@ minima:
     social_links:
         github: GeorgeMuscat
         linkedin: george-muscat
+
+header_pages:
+    - blog.md
+    - resume.md
+    - edu.md
