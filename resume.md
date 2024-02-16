@@ -1,5 +1,5 @@
 ---
 layout: page
-title: resume
+title: 'resume'
 permalink: /resume
 ---
