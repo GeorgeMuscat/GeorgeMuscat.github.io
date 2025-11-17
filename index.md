@@ -6,14 +6,12 @@ permalink: /
 
 # Hello, I'm George!
 
-I'm currently a Course Admin, Tutor and Undergraduate Computer Science Student @ UNSW. 🌱
+I'm currently a Security Engineering Consultant @ Asontu. 🌱
 
-I love a good CTF. 🚩
+I love a good CTF with friends. 🚩
 
-What gets me thinking the most is security and computer networks. With how connected all devices are, having a strong understanding of network security is extremely important to me. 🌐
+I'm particularly interested in combining the principles and techniques from Site Reliability Engineering and Security Engineering, as they are closely related and often mutually beneficial.
 
-One of my favourite optimisations for my various workflows is making use of CI/CD pipelines and automation. ⚙️
+Lately, I've been spending a majority of my spare time messing with my homelab, where I run a variety of services for friends and family.
 
-On the weekend I love to play sports such as Volleyball, Baseball, Football and Tennis. 🏐
-
-Please feel free to reach out to me if you want to chat about any of this stuff, I love meeting new people!
+You can contact me at [george@muscat.sh](mailto:george@muscat.sh)
