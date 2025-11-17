@@ -17,10 +17,9 @@ title: ./muscat.sh
 author: George Muscat
 email: george@muscat.sh
 description: >- # this means to ignore newlines until "baseurl:"
-    Course Admin, Tutor and Computer Science Student @ UNSW.
-    Everything security.
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://muscat.sh/' # the base hostname & protocol for your site, e.g. http://example.com
+  Security and Reliability focused Engineer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://muscat.sh/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: GeorgeMuscat
 
@@ -28,7 +27,7 @@ github_username: GeorgeMuscat
 markdown: kramdown
 theme: minima
 plugins:
-    - jekyll-feed
+  - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -41,12 +40,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 minima:
-    skin: dark
-    social_links:
-        github: GeorgeMuscat
-        linkedin: george-muscat
+  skin: dark
+  social_links:
+    github: GeorgeMuscat
+    linkedin: george-muscat
 
 header_pages:
-    - blog.md
-    - resume.md
-    - edu.md
+  - blog.md
+  - resume.md
+  - edu.md
